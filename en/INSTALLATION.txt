@@ -19,4 +19,3 @@ php -q /site-path/wcp-path/lib/index-security.php
 
 Or, you can use this command directly:
 * * * * * php -q /site-path/wcp-path/lib/index-security.php
-
