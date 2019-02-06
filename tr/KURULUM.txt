@@ -1,23 +1,22 @@
 
  Kurulum:
-1) Dosyaları boş bir dizine atın.
-2) Dosyaları attığınız dizini tarayıcınızda açın, otomatik kurulum sayfasına yönlendirileceksiniz.
-3) Gereken yönergeleri uygulayın ve kurulumu bitirin.
-4) Kurulum bitince FTP'den veya sunucu kontrol panelinden admin panel yolunuzu öğrenip admin panele girin.
-5) Admin panele girince sol menüden ihtiyacınız olan özellikleri aktif edin.
-6) Özellikleri aktif edince yazılımın sitenizdeki yazılımla uyumlu çalışması için entegrasyon yapmalısınız. Bunun için WCP'nin dizininde bulunan wcp_ayar.php dosyasını yazılımınızdaki konfigürasyon dosyasına ekleyin. Örnek kod:
+1) DosyalarÄ± boÅŸ bir dizine atÄ±n.
+2) DosyalarÄ± attÄ±ÄŸÄ±nÄ±z dizini tarayÄ±cÄ±nÄ±zda aÃ§Ä±n, otomatik kurulum sayfasÄ±na yÃ¶nlendirileceksiniz.
+3) Gereken yÃ¶nergeleri uygulayÄ±n ve kurulumu bitirin.
+4) Kurulum bitince FTP'den veya sunucu kontrol panelinden admin panel yolunuzu Ã¶ÄŸrenip admin panele girin.
+5) Admin panele girince sol menÃ¼den ihtiyacÄ±nÄ±z olan Ã¶zellikleri aktif edin.
+6) Ã–zellikleri aktif edince yazÄ±lÄ±mÄ±n sitenizdeki yazÄ±lÄ±mla uyumlu Ã§alÄ±ÅŸmasÄ± iÃ§in entegrasyon yapmalÄ±sÄ±nÄ±z. Bunun iÃ§in WCP'nin dizininde bulunan wcp_ayar.php dosyasÄ±nÄ± yazÄ±lÄ±mÄ±nÄ±zdaki konfigÃ¼rasyon dosyasÄ±na ekleyin. Ã–rnek kod:
 @include("/home/kullanici/public_html/wcp/wcp_ayar.php");
-bu dosyayı <?php tag'inin hemen altına ekleyebilirsiniz. Örneğin WordPress için, wp-config.php dosyasına eklemelisiniz.
+bu dosyayÄ± <?php tag'inin hemen altÄ±na ekleyebilirsiniz. Ã–rneÄŸin WordPress iÃ§in, wp-config.php dosyasÄ±na eklemelisiniz.
 
-7) Kurulum tamamlanmıştır, panele girdiğinizde "eski sürüm kullanıyorsunuz" uyarısı alırsanız yazılımın güncellendiğini ve https://github.com/NumanABi adresinden tekrar indirmeniz gerektiğini unutmayın.
+7) Kurulum tamamlanmÄ±ÅŸtÄ±r, panele girdiÄŸinizde "eski sÃ¼rÃ¼m kullanÄ±yorsunuz" uyarÄ±sÄ± alÄ±rsanÄ±z yazÄ±lÄ±mÄ±n gÃ¼ncellendiÄŸini ve https://github.com/NumanABi adresinden tekrar indirmeniz gerektiÄŸini unutmayÄ±n.
 
 ====================================================================================================
-ANASAYFA GÜVENLİĞİ ÖZELLİĞİ HAKKINDA
-Yazılımın sitenizi sürekli kontrol edebilmesini sağlamak için bir cron job oluşturmalısınız. Bu cron job dakikada bir çalışacak şekilde ayarlanmalıdır. Her dakika bu dosya çalıştırılacak ve dosya kendi içerisinde 60 saniye boyunca çalışacak. Böylece anasayfa güvenliğini sağlayan dosyanın 7/24 çalışması sağlanacak. CPU'yu zorlamamaktadır.
+ANASAYFA GÃœVENLÄ°ÄÄ° Ã–ZELLÄ°ÄÄ° HAKKINDA
+YazÄ±lÄ±mÄ±n sitenizi sÃ¼rekli kontrol edebilmesini saÄŸlamak iÃ§in bir cron job oluÅŸturmalÄ±sÄ±nÄ±z. Bu cron job dakikada bir Ã§alÄ±ÅŸacak ÅŸekilde ayarlanmalÄ±dÄ±r. Her dakika bu dosya Ã§alÄ±ÅŸtÄ±rÄ±lacak ve dosya kendi iÃ§erisinde 60 saniye boyunca Ã§alÄ±ÅŸacak. BÃ¶ylece anasayfa gÃ¼venliÄŸini saÄŸlayan dosyanÄ±n 7/24 Ã§alÄ±ÅŸmasÄ± saÄŸlanacak. CPU'yu zorlamamaktadÄ±r.
 
 Cron job komutu:
-php -q /site-yolu/wcp-dizini/lib/index-guvenligi.php           şeklinde olmalıdır.
+php -q /site-yolu/wcp-dizini/lib/index-guvenligi.php           ÅŸeklinde olmalÄ±dÄ±r.
 
-Ya da direk aşağıdaki komutu da kullanabilirsiniz:
+Ya da direk aÅŸaÄŸÄ±daki komutu da kullanabilirsiniz:
 * * * * * php -q /site-yolu/wcp-dizini/lib/index-guvenligi.php 
-
