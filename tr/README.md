@@ -16,3 +16,12 @@ Yazılım açık kaynak kodludur ve geliştirilmeye açıktır. Yeni versiyon il
 
 Anasayfadan şöyle bir ekran görüntüsü koyayım:
 <img src="https://webcop.org/wcpfirewall/ss.png">
+
+İstek ve önerilerinizi belirtebilir, yazılımda bulduğunuz hataları bildirebilirsiniz. 
+
+Ayrıca yazılımı geliştirirken bana her türlü desteği sağlayan Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Abdul Samed  ve <b>Ahmet ŞENŞAHİN</b> hocalarıma çok teşekkürler.
+
+<center>
+<a href="https://www.infinitumit.com.tr">InfinitumIT - Power of Integrated Security</a><br>
+<a href="https://www.cybermagonline.com/">Türkiye'nin İlk Siber Güvenlik Dergisi</a><br>
+ </center>
