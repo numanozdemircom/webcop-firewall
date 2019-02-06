@@ -21,7 +21,7 @@ Let me put a screeshost from dashboard:
 
 You can tell me your requests and suggestions, also report me the bugs in the software.
 
-Thanks to Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Abdul Samed and <b>Ahmet ŞENŞAHİN</b> for taking time for me.
+Thanks to Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Abdul Samed and <b>Ahmet ŞENŞAHİN</b> for their supports.
 
 <center>
 <a href="https://www.infinitumit.com.tr">InfinitumIT - Power of Integrated Security</a><br>
