@@ -14,6 +14,9 @@ WebCOP Firewall PHP tabanlı bir web uygulama güvenlik duvarıdır. Yazılımı
 
 Yazılım açık kaynak kodludur ve geliştirilmeye açıktır. Yeni versiyon ile birlikte bomba özellikler ekleyeceğim, buna beta sürüm diyebiliriz. :) 
 
+Kurulum videosu:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hn9Kgk_bg7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Anasayfadan şöyle bir ekran görüntüsü koyayım:
 <img src="https://webcop.org/wcpfirewall/ss.png">
 
