@@ -17,11 +17,11 @@ This software is open source and waiting for developing. I will add more great f
 
 
 Let me put a screeshost from dashboard:
-<img src="https://webcop.org/wcpfirewall/ss.png">
+<img src="https://webcop.org/wcpfirewall/ss-en.png">
 
 You can tell me your requests and suggestions, also report me the bugs in the software.
 
-Thanks to Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Abdul Samed and <b>Ahmet ŞENŞAHİN</b> for their supports.
+Thanks to Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Abdul Samed and Ahmet ŞENŞAHİN for their supports.
 
 <center>
 <a href="https://www.infinitumit.com.tr">InfinitumIT - Power of Integrated Security</a><br>
