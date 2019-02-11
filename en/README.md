@@ -20,6 +20,7 @@ Let me put a screeshost from dashboard:
 <img src="https://webcop.org/wcpfirewall/ss-en.png">
 
 You can tell me your requests and suggestions, also report me the bugs in the software.
+And our back-end translating is continuing. Only front-end is English for now.
 
 Thanks to Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Abdul Samed and Ahmet ŞENŞAHİN for their supports.
 
