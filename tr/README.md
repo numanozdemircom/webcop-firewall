@@ -19,7 +19,7 @@ Anasayfadan şöyle bir ekran görüntüsü koyayım:
 
 İstek ve önerilerinizi belirtebilir, yazılımda bulduğunuz hataları bildirebilirsiniz. 
 
-Ayrıca yazılımı geliştirirken bana her türlü desteği sağlayan Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Abdul Samed  ve Ahmet ŞENŞAHİN hocalarıma çok teşekkürler.
+Ayrıca yazılımı geliştirirken bana her türlü desteği sağlayan Batuhan Kerim TÜRK, Numan TÜRLE, Selim Can ÖZDEMİR, Umut ASLAN, Abdul Samed  ve Ahmet ŞENŞAHİN hocalarıma çok teşekkürler.
 
 <center>
 <a href="https://www.infinitumit.com.tr">InfinitumIT - Power of Integrated Security</a><br>
