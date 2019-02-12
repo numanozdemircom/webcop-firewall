@@ -148,7 +148,7 @@ echo '
             </li>
             <li><a href="block-attacker.php"><i class="fa fa-circle-o"></i> Blocking Attacker</a></li>
 			<li><a href="webshell-scanner.php"><i class="fa fa-circle-o"></i> Webshell Scanner</a></li>
-			<li><a href="homepage-security.php"><i class="fa fa-circle-o"></i> Anasayfa Güvenliği</a></li>
+			<li><a href="homepage-security.php"><i class="fa fa-circle-o"></i> Homepage Security</a></li>
 			<li><a href="security-robot.php"><i class="fa fa-circle-o"></i> Security Robot</a></li>
           </ul>
         </li>
@@ -161,7 +161,7 @@ echo '
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="url-redirecting.php"><i class="fa fa-circle-o"></i>URL Yönlendirme</a></li>
+            <li><a href="url-redirecting.php"><i class="fa fa-circle-o"></i>URL Redirecting</a></li>
             <li><a href="maintenance-mode.php"><i class="fa fa-circle-o"></i>Maintenance Mode</a></li>
 			<li><a href="have-i-been-hacked.php"><i class="fa fa-circle-o"></i>Have I Been Hacked?</a></li>
           </ul>
